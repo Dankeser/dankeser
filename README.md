@@ -1,5 +1,5 @@
 # 💫 About Me:
-![untitled(2)](https://github.com/user-attachments/assets/8946b557-351f-4cca-8ebc-c77d2f44617d)
+![untitled(2)](https://github.com/user-attachments/assets/8946b557-351f-4cca-8ebc-c77d2f44617d){ : width=50% }
 i i love machine learning<br>i love numpy pandas scikit-learn matplotlib
 
 my operating system Linux
