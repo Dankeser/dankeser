@@ -2,7 +2,10 @@
 <img src="https://github.com/Dankeser/dankeser/blob/main/text.png" width="70%">
 <br>
 
-### i i love machine learning<br>i love numpy pandas scikit-learn matplotlib
+### i i love machine learning
+<br>
+
+### i love numpy pandas scikit-learn matplotlib
 <br>
 
 ### my operating system linux
